@@ -1,0 +1,22 @@
+{
+  "name": "customer-billing-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Joel Joseph",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-promise-router": "^3.0.3",
+    "joi": "^14.3.1",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.0",
+    "morgan": "^1.9.1",
+    "stripe": "^6.28.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
