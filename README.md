@@ -14,7 +14,7 @@ To build and run this app locally you will need a few things:
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/JOELJOSEPHCHALAKUDY/Nodejs-REST-API-startup-template-with-login-and-authenticaton.git
+git clone --depth=1 https://github.com/JOELJOSEPHCHALAKUDY/nodejs-api-template-with-mongoclient-express.git
 ```
 - Install dependencies
 ```
