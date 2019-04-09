@@ -1,7 +1,7 @@
 # Nodejs REST API  with Express and Mongodb , MongoClient
 Nodejs REST API template  derived from public repo https://github.com/JOELJOSEPHCHALAKUDY/Nodejs-REST-API-startup-template-with-login-and-authenticaton.git
 
-The main purpose of this repository is to show a good end-to-end project setup and workflow for writing Node REST API without using moongoose and using mongodb driver instead 
+The main purpose of this repository is to show a good end-to-end project setup and workflow for writing Node REST API without using mongoose and using mongodb driver instead 
 
 
 
